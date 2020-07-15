@@ -14,6 +14,7 @@ module.export = {
             // 6 - 10
             "giant rat", // 12/7
             "awakened shrub", // 9/10
+            "grimlock", // 11/11
         ],
         [
             // 11 - 15
@@ -28,6 +29,8 @@ module.export = {
      */
     medium: [
         [
+            "goblin", // 15/7
+            "homunculus", // 13/5
             "giant lizard", // 12/19
             "lion", // 12/26
             "tiger", // 12/37
